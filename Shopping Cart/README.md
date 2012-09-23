@@ -3,7 +3,7 @@ Welcome! Here is a Shopping Cart project I built on LearnStreet's
 Code Garage using javascript.
 ===============================================================================================================
 
-![Shopping Cart]http://qaa.learnstreet.com/cg/simple/static/images/shopping/shopping.jpg
+![Shopping Cart](http://qaa.learnstreet.com/cg/simple/static/images/shopping/shopping.png)
 
 Project description
 -------------------------
