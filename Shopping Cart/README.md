@@ -3,7 +3,7 @@ Code Garage using javascript.
 ===============================================================================================================
 
 ![Shopping Cart]http://qaa.learnstreet.com/cg/simple/static/images/shopping/shopping.png
-[![Build Status](https://qaa.learnstreet.com/cg/simple/static/images/shopping/shopping.png?branch=master)](http://qaa.learnstreet.com/cg/simple/static/images/shopping/shopping.png)
+[![Build Status](https://localhost:5000/shopping?branch=master)](http://qaa.learnstreet.com/cg/simple/static/images/shopping/shopping.png)
 
 Project description
 -------------------------
